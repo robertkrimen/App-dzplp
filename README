@@ -1,5 +1,5 @@
 NAME
-    App::dzplt - Run dzpl in turbo mode
+    App::dzplp - Run dzpl via persistent Dist::Dzpl server
 
 VERSION
     version 0.0001

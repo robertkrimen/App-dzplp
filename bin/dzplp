@@ -3,5 +3,5 @@
 use strict;
 use warnings;
 
-use App::dzplt;
-App::dzplt->run( @ARGV );
+use App::dzplp;
+App::dzplp->run( @ARGV );
